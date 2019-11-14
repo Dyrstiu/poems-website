@@ -1,0 +1,1 @@
+$('#yourElement').addClass('animated bounceOutLeft');
